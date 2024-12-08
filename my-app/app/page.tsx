@@ -40,7 +40,7 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                Koenigsegg <Image src={"/heart.png"} alt="" width={20} height={20} />
+                Koenigsegg <Image src={"/heart.png"} alt="error" width={20} height={20} />
               </CardTitle>
               <CardDescription>Sport</CardDescription>
             </CardHeader>
@@ -60,7 +60,7 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                NissanGT - R <Image src={"/heart2.png"} alt="" width={20} height={20} />
+                NissanGT - R <Image src={"/heart 2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>Sport</CardDescription>
             </CardHeader>
@@ -146,7 +146,7 @@ export default function Home() {
           <Card className="w-full max-w-[304px] mx-auto h-auto flex flex-col justify-between">
             <CardHeader>
               <CardTitle className="w-full flex items-center justify-between">
-                CR - V <Image src={"/heart2.png"} alt="" width={20} height={20} />
+                CR - V <Image src={"/heart 2.png"} alt="" width={20} height={20} />
               </CardTitle>
               <CardDescription>SUV</CardDescription>
             </CardHeader>
